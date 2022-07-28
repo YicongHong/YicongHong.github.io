@@ -99,6 +99,11 @@ Research
 <em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
 
+<a target="_blank" href="https://arxiv.org/abs/2206.11610">**1st Place Solutions for RxR-Habitat Vision-and-Language Navigation Competition (CVPR 2022)**<a/>
+<br>Dong An, Zun Wang, Yangguang Li, Yi Wang, **Yicong Hong**, Yan Huang, Liang Wang, Jing Shao<br>
+<em>Room-Across-Room (RxR) Habitat Challenge (CVPR Embodied AI Workshop), 2022<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2206.11610"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Discrete-Continuous-VLN"><button id="touch">Code</button></a>
+  
 <a target="_blank" href="https://arxiv.org/abs/2104.04167">**HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation**<a/><br>
 Yanyuan Qiao, Yuankai Qi, **Yicong Hong**, Zheng Yu, Peng Wang, Qi Wu<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2022<em/><br>
