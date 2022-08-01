@@ -1,8 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Works"
 permalink: /publications/
 author_profile: true
+---
+
+**Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**<br>
+[**Yicong Hong**](http://www.yiconghong.me/), Zun Wang, [Qi Wu](http://www.qi-wu.me/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
+
+In the <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2022.<br>
+[[Paper & Supplemental](https://arxiv.org/abs/2203.02764)] [[GitHub](https://github.com/YicongHong/Discrete-Continuous-VLN)]<br>
+
 ---
 
 <img align="left" width="300" height="110" src="./../images/p3-teaser.png" style="padding-right:20px; padding-top:20px"/>
