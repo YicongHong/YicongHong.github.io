@@ -65,7 +65,7 @@ News
 
 **2021.04.10** &emsp; Paper **Learning Structure-Aware Semantic Segmentation with Image-Level Supervision** by Jiawei Liu, Dr. Jing Zhang, Prof. Nick Barnes and myself, has been accepted to IJCNN 2021! Congrats Jiawei on his first paper in computer vision! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.07216"><button id="touch">PDF</button></a>
 
-**2021.03.16** &emsp; Our <a target="_blank" href="https://github.com/YicongHong/Thinking-VLN">Thinking-VLN</a> repo is online! Come to enjoy our immature ideas and share your thoughts! Just for FUN thinking!
+**2021.03.16** &emsp; Our <a target="_blank" href="https://github.com/YicongHong/Thinking-VLN">**Thinking-VLN**</a> repo is online! Come to enjoy our immature ideas and share your thoughts! Just for FUN thinking!
 
 **2021.03.06** &emsp; Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
 
