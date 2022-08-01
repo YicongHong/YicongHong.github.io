@@ -38,7 +38,7 @@ I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">Col
 
 I am under the supervision of <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Dr. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
-Currently, I am doing a research internship at the Creative Intelligence Lab, Adobe Research.
+Currently, I am doing a research internship at the **Creative Intelligence Lab, Adobe Research**.
   
 Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
 
