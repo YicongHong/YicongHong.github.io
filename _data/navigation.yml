@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Thinking-VLN"
-    url: https://github.com/YicongHong/Thinking-VLN
-
   - title: "Resume"
     url: https://drive.google.com/file/d/1A7tHNOVvxYMs161khlAQKPwhqAa_9bOd/view?usp=sharing
+    
+  - title: "Selected Works"
+    url: /publications/
+
+  - title: "Thinking-VLN"
+    url: https://github.com/YicongHong/Thinking-VLN
 
 #   - title: "Talks"
 #     url: /talks/    
