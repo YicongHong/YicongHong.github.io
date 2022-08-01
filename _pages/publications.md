@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img align="left" width="300" height="110" src="./../images/traj_1.gif" style="padding-right:20px; padding-top:40px"/>
+
 **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**<br>
 [**Yicong Hong**](http://www.yiconghong.me/), Zun Wang, [Qi Wu](http://www.qi-wu.me/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
 
