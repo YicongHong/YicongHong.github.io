@@ -1,8 +1,8 @@
 ---
 layout: page
 title: People
-group: "navigation"
-id: "people"
+permalink: /peoples/
+id: "peoples"
 ---
 
 # People
