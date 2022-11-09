@@ -56,9 +56,11 @@ News
 **2022.06.15** &emsp; Visiting Professor Eric Xin Wang and the **ERIC Lab at the University of California Santa Cruz**! It was amazing to learn from so many young researchers! 😄
   
 **2022.05.10** &emsp; Invited talk by the **NLP Lab at the Fudan University**, really enjoyed chatting with everyone! 😄
+
+**2022.03.28** &emsp; My VLN project has been selected to be a part of the NVIDIA Academic Hardware Grant Program! 😆 Thank you so much NVIDIA for the A100 GPU grant!!! 😭😭😭
   
 **2022.03.14** &emsp; I have started a research internship at the **Creative Intelligence Lab in Adobe Research** in San Jose, California, US!!! 😆😆😆
-  
+
 **2022.03.02**
 - Our paper **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation** has been accepted to CVPR 2022! 😊 I am so happy to share lots of thoughts about VLN in this paper! See you guys in New Orleans! ❤️ <a target="_blank" href="https://arxiv.org/abs/2203.02764"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Discrete-Continuous-VLN"><button id="touch">Code</button></a>
 - Paper **HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation** by Yanyuan Qiao, Yuankai Qi, Peng Wang, Qi Wu and myself has been accepted to CVPR 2022! Congrats Yanyuan on the first paper in her PhD! 😀 <a target="_blank" href="https://arxiv.org/abs/2203.11591"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YanyuanQiao/HOP-VLN"><button id="touch">Code</button></a>
