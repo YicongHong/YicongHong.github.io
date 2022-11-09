@@ -57,7 +57,7 @@ News
   
 **2022.05.10** &emsp; Invited talk by the **NLP Lab at the Fudan University**, really enjoyed chatting with everyone! 😄
 
-**2022.03.28** &emsp; My VLN project has been selected to be a part of the NVIDIA Academic Hardware Grant Program! 😆 Thank you so much NVIDIA for the A100 GPU grant!!! 😭😭😭
+**2022.03.28** &emsp; My VLN project has been selected to be a part of the **NVIDIA Academic Hardware Grant Program**! 😆 Thank you so much NVIDIA for the A100 GPU grant!!! 😭😭😭
   
 **2022.03.14** &emsp; I have started a research internship at the **Creative Intelligence Lab in Adobe Research** in San Jose, California, US!!! 😆😆😆
 
