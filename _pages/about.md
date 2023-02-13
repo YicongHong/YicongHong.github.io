@@ -48,7 +48,8 @@ I have a broad research interests in computer vision, natural language processin
 
 News
 ======
-
+**2023.02.19** &emsp; Join the **Creative Intelligence Lab in Adobe Research** again! Working on a totally unfamiliar topic! 😊🔥🔥
+  
 **2022.06.19**
 - Attending CVPR2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! ❤️❤️❤️
 - Congrats to Zun Wang, Dong An and Team **JoyBoy** for winning the **1st Place in the Room-Across-Room (RxR) Habitat Challenge 2022**!!! 😆⚡⚡ <a target="_blank" href="https://arxiv.org/abs/2206.11610"><button id="touch">Report</button></a> <a target="_blank" href="https://drive.google.com/file/d/15VbXcanw7D3q5TUm75WmDVslqgOmVvJk/view?usp=sharing"><button id="touch">Certificate</button></a>
