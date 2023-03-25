@@ -48,7 +48,7 @@ I have a broad research interests in computer vision, natural language processin
 
 News
 ======
-**2023.02.19** &emsp; Join **Adobe Research** again! Working on a totally unfamiliar topic! 😊🔥🔥
+**2023.02.19** &emsp; Join **Adobe Research** again! Working on Text-to-3D Generation, a totally unfamiliar topic to me! 😊🔥🔥
   
 **2022.12.29** &emsp; Paper **HOP+: History-Enhanced and Order-Aware Pre-Training for Vision-and-Language Navigation** by Yanyuan Qiao, Yuankai Qi, Zheng Yu, Peng Wang, Qi Wu and myself has been accepted by TPAMI! Congrats Yanyuan!!! 😀😀😀 <a target="_blank" href="https://ieeexplore.ieee.org/document/10006384"><button id="touch">PDF</button></a>
   
