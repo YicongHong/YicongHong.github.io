@@ -42,7 +42,8 @@ Currently, I am doing a research internship at the **Creative Intelligence Lab, 
   
 Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
 
-I have a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on **Text/Image to 3D Shape Generation**, and **Embodied Vision-and-Language**. My latest works include **developing generalizable large 3D models for reconstruction**, **large-scale training for langauge-guided navigation agents**, and **using LLMs in embodied AI tasks**.
+I have a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on **Text/Image to 3D Shape Generation**, and **Embodied Vision-and-Language**. 
+My latest works include **developing generalizable large 3D models for reconstruction**, **large-scale training for langauge-guided navigation agents**, and **using LLMs in embodied AI tasks**.
 
 ------
 
