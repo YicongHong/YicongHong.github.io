@@ -38,11 +38,11 @@ I am a PhD student in the <a target="_blank" href="https://cecc.anu.edu.au/">Col
 
 I am under the supervision of <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
-Currently, I am doing a research internship at the **Creative Intelligence Lab, Adobe Research**.
+Currently, I am a free researcher waiting for graduation and looking for a full-time research scientist job 😉. If you have any opportunities for me, please let me know!
   
-Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
+Prior to that, in Nov'2018, I received my bachelor's degree of engineering in mechatronic systems with first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
 
-I have a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on **Text/Image to 3D Shape Generation**, and **Embodied Vision-and-Language**. 
+I have a broad research interest in computer vision, natural language processing, and robotics. Currently, my main research focus is on **Large Models for Embodied AI**, and **Text/Image to 3D Shape Generation**. 
 
 My latest works include **developing generalizable large 3D models for reconstruction**, **large-scale training for langauge-guided navigation agents**, and **using LLMs in embodied AI tasks**.
 
