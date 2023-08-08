@@ -48,7 +48,7 @@ News
 ======
 **2023.07.14** &emsp; Our paper <a target="_blank" href="https://arxiv.org/abs/2307.15644">**Scaling Data Generation in Vision-and-Language Navigation**<a/> and <a target="_blank" href="https://arxiv.org/abs/2307.12335">**Learning Navigational Visual Representations with Semantic Map Supervision**<a/> has been accepted to ICCV 2023! The projects were completed/initialized during my first internship at Adobe! It was my great pleasure to work on them with my friends around the world! 😀😊❤️
 
-**2023.02.19** &emsp; Join **Adobe Research** again! Working on Text-to-3D Generation, a totally unfamiliar topic to me! 😊🔥🔥
+**2023.02.19** &emsp; Join **Adobe Research** again (intern)! Working on Text-to-3D Generation and Single-Image-to-3D Reconstruction, totally unfamiliar topics to me! 😊🔥🔥
   
 **2022.12.29** &emsp; Paper **HOP+: History-Enhanced and Order-Aware Pre-Training for Vision-and-Language Navigation** by Yanyuan Qiao, Yuankai Qi, Zheng Yu, Peng Wang, Qi Wu and myself has been accepted by TPAMI! Congrats Yanyuan!!! 😀😀😀 <a target="_blank" href="https://ieeexplore.ieee.org/document/10006384"><button id="touch">PDF</button></a>
   
