@@ -34,9 +34,7 @@ a:hover { text-decoration: underline; }
 
 ------
 
-I am a graduated Ph.D. from the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/> and the <a target="_blank" href="https://v3alab.github.io/#about">Vision-Ask-Answer-Act Lab (V3A)<a/>.
-
-I am under the supervision of <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
+I am a graduated Ph.D. from the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
 Currently, I am a free researcher looking for a full-time research scientist job 😉. If you have any opportunities for me, please let me know!
   
@@ -50,6 +48,8 @@ My latest works include **developing generalizable large 3D models for reconstru
 
 News
 ======
+**2023.07.14** &emsp; Our paper <a target="_blank" href="https://arxiv.org/abs/2307.15644">**Scaling Data Generation in Vision-and-Language Navigation**<a/> and <a target="_blank" href="https://arxiv.org/abs/2307.12335">**Learning Navigational Visual Representations with Semantic Map Supervision**<a/> has been accepted to ICCV 2023! The projects were completed/initialized during my first internship at Adobe! It was my great pleasure to work on them with my friends around the world! 😀😊❤️
+
 **2023.02.19** &emsp; Join **Adobe Research** again! Working on Text-to-3D Generation, a totally unfamiliar topic to me! 😊🔥🔥
   
 **2022.12.29** &emsp; Paper **HOP+: History-Enhanced and Order-Aware Pre-Training for Vision-and-Language Navigation** by Yanyuan Qiao, Yuankai Qi, Zheng Yu, Peng Wang, Qi Wu and myself has been accepted by TPAMI! Congrats Yanyuan!!! 😀😀😀 <a target="_blank" href="https://ieeexplore.ieee.org/document/10006384"><button id="touch">PDF</button></a>
