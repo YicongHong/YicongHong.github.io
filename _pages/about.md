@@ -46,7 +46,7 @@ I have a broad research interest in computer vision, natural language processing
 
 News
 ======
-**2023.07.14** &emsp; Our paper <a target="_blank" href="https://arxiv.org/abs/2307.15644">**Scaling Data Generation in Vision-and-Language Navigation**<a/> and <a target="_blank" href="https://arxiv.org/abs/2307.12335">**Learning Navigational Visual Representations with Semantic Map Supervision**<a/> has been accepted to ICCV 2023! The projects were completed/initialized during my first internship at Adobe! It was my great pleasure to work on them with my friends around the world! 😀😊❤️
+**2023.07.14** &emsp; Our papers <a target="_blank" href="https://arxiv.org/abs/2307.15644">**Scaling Data Generation in Vision-and-Language Navigation**<a/> and <a target="_blank" href="https://arxiv.org/abs/2307.12335">**Learning Navigational Visual Representations with Semantic Map Supervision**<a/> has been accepted to ICCV 2023! The projects were completed/initialized during my first internship at Adobe! It was my great pleasure to work on them with my friends around the world! 😀😊❤️
 
 **2023.02.19** &emsp; Join **Adobe Research** again (intern)! Working on Text-to-3D Generation and Single-Image-to-3D Reconstruction, totally unfamiliar topics to me! 😊🔥🔥
   
@@ -86,6 +86,16 @@ News
 
 Research
 ======
+<a target="_blank" href="https://arxiv.org/abs/2307.15644">**Scaling Data Generation in Vision-and-Language Navigation**<a/><br>
+Zun Wang, Jialu Li, **Yicong Hong**, Yi Wang, Qi Wu, Mohit Bansal, Stephen Gould, Hao Tan, Yu Qiao<br>
+<em>International Conference on Computer Vision (ICCV), 2023<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2307.15644"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/wz0919/ScaleVLN"><button id="touch">Code</button></a>
+
+<a target="_blank" href="https://arxiv.org/abs/2307.12335">**Learning Navigational Visual Representations with Semantic Map Supervision**<a/><br>
+**Yicong Hong**, Yang Zhou, Ruiyi Zhang, Franck Dernoncourt, Trung Bui, Stephen Gould, Hao Tan<br>
+<em>International Conference on Computer Vision (ICCV), 2023<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2307.12335"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Ego2Map-NaViT"><button id="touch">Code</button></a>
+
 <a target="_blank" href="https://arxiv.org/abs/2203.02764">**Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**<a/><br>
 **Yicong Hong**, Zun Wang, Qi Wu, Stephen Gould<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2022<em/><br>
