@@ -36,11 +36,9 @@ a:hover { text-decoration: underline; }
 
 I am a graduated Ph.D. from the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
-Currently, I am a free researcher looking for a full-time research scientist job (Embodied AI, Vision-Language, Generative models in 3D/Videos) 😉. If you have any opportunities for me, please let me know!
-  
 <!--Prior to that, in Nov'2018, I received my bachelor's degree of engineering in mechatronic systems with first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.-->
 
-I have a broad research interest in computer vision, natural language processing, and robotics. My latest works (also my current research focus) include **developing generalizable large models for 3D reconstruction**, **large-scale training for language-guided navigation agents**, and **using LLMs in embodied AI tasks**.
+I have a broad research interest in computer vision, natural language processing, and robotics. My latest works (also my current research focus) include **Video/3D Reconstruction/Generation**, **large-scale training for language-guided navigation agents**, and **LLMs/VLMs for embodied AI**.
 
 ------
 
