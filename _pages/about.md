@@ -38,7 +38,9 @@ I am a graduated Ph.D. from the <a target="_blank" href="https://cecc.anu.edu.au
 
 <!--Prior to that, in Nov'2018, I received my bachelor's degree of engineering in mechatronic systems with first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.-->
 
-I have a broad research interest in computer vision, natural language processing, and robotics. My latest works (also my current research focus) include **Video/3D Reconstruction/Generation**, **large-scale training for language-guided navigation agents**, and **LLMs/VLMs for embodied AI**.
+<!--I have a broad research interest in computer vision, natural language processing, and robotics. -->
+
+I love Embodied AI! My latest works and my current research focus include **Video/3D Reconstruction/Generation**, **Applying LLMs/VLMs for Navigation**, and **Visual Representation Learning**.
 
 ------
 
