@@ -34,7 +34,9 @@ a:hover { text-decoration: underline; }
 
 ------
 
-I am a graduated Ph.D. from the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
+I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My current focus is video generation.
+
+Prior to that, I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
 <!--Prior to that, in Nov'2018, I received my bachelor's degree of engineering in mechatronic systems with first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.-->
 
@@ -46,6 +48,8 @@ I love Embodied AI! My latest works and my current research focus include **Vide
 
 News
 ======
+**2023.02.19** &emsp; Finally! My first day in **Adobe Research** as a full-time research scientist! So happy to be back and working with everyone! 😊🔥🔥
+
 **2024.01.20** &emsp; Thrilled to share that our **LRM: Large Reconstruction Model for Single Image to 3D** <a target="_blank" href="https://yiconghong.me/LRM/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.04400"><button id="touch">PDF</button></a> and **Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model** <a target="_blank" href="https://jiahao.ai/instant3d/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.06214"><button id="touch">PDF</button></a> have been accepted to ICLR2024 as Oral and Poster papers! 😆🎉🎉
 A wonderful ending to my PhD <a target="_blank" href="https://cecc.anu.edu.au/">@ANUCECC<a/> and a fantastic start to my new journey <a target="_blank" href="https://research.adobe.com/">@AdobeResearch<a/>! Thanks <a target="_blank" href="https://research.adobe.com/person/hao-tan/">@HaoTan<a/> for your recognition and your great advise⭐! Thanks Team 🙌! Thanks Adobe! 😊❤️❤️
 
