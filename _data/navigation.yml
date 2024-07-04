@@ -1,13 +1,10 @@
 # main links links
 main:
   - title: "Resume"
-    url: https://drive.google.com/file/d/1Ob9rEe2U4Oi2UOlf9j_m16dWcM24EHC7/view?usp=drive_link
+    url: 
     
   - title: "Selected Works"
     url: /publications/
-
-  - title: "Thinking-VLN"
-    url: https://github.com/YicongHong/Thinking-VLN
 
 #   - title: "Peoples"
 #     url: /peoples/    

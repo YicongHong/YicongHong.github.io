@@ -7,7 +7,7 @@ author_profile: true
 
 <img align="left" width="300" height="110" src="./../images/traj_1.gif" style="padding-right:20px; padding-top:40px"/>
 
-**Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**<br>
+<!-- **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**<br>
 [**Yicong Hong**](http://www.yiconghong.me/), Zun Wang, [Qi Wu](http://www.qi-wu.me/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
 
 In the <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2022.<br>
@@ -41,4 +41,4 @@ In the <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2
 [**Yicong Hong**](http://www.yiconghong.me/), [Cristian Rodriguez-Opazo](https://crodriguezo.github.io/), [Qi Wu](http://www.qi-wu.me/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
 
 In the <em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2020.<br>
-[[Paper & Supplemental](https://www.aclweb.org/anthology/2020.emnlp-main.271/)] [[GitHub](https://github.com/YicongHong/Fine-Grained-R2R)]<br>
+[[Paper & Supplemental](https://www.aclweb.org/anthology/2020.emnlp-main.271/)] [[GitHub](https://github.com/YicongHong/Fine-Grained-R2R)]<br> -->

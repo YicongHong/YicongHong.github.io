@@ -32,21 +32,21 @@ a:hover { text-decoration: underline; }
 </style>
 
 ------
-I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My current focus is video generation.
+<!-- I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My current focus is video generation.
 
-Prior to that, I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing, and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
+Prior to that, I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing, and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU). -->
 
 <!--Prior to that, in Nov'2018, I received my bachelor's degree of engineering in mechatronic systems with first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.-->
 
 <!--I have a broad research interest in computer vision, natural language processing, and robotics. -->
 
-I love Embodied AI and AICG! My latest works include **Video/3D Generation** and **Training LLMs/VLMs for Navigation**.
+<!-- I love Embodied AI and AICG! My latest works include **Video/3D Generation** and **Training LLMs/VLMs for Navigation**. -->
 
 ------
 
 News
 ======
-**2024.02.12** &emsp; Finally! My first day in **Adobe Research** as a full-time research scientist! So happy to be back and working with everyone! 😊🔥🔥
+<!-- **2024.02.12** &emsp; Finally! My first day in **Adobe Research** as a full-time research scientist! So happy to be back and working with everyone! 😊🔥🔥
 
 **2024.01.20** &emsp; Thrilled to share that our **LRM: Large Reconstruction Model for Single Image to 3D** <a target="_blank" href="https://yiconghong.me/LRM/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.04400"><button id="touch">PDF</button></a> and **Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model** <a target="_blank" href="https://jiahao.ai/instant3d/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.06214"><button id="touch">PDF</button></a> have been accepted to ICLR2024 as Oral and Poster papers! 😆🎉🎉
 A wonderful ending to my PhD <a target="_blank" href="https://cecc.anu.edu.au/">@ANUCECC<a/> and a fantastic start to my new journey <a target="_blank" href="https://research.adobe.com/">@AdobeResearch<a/>! Thanks <a target="_blank" href="https://research.adobe.com/person/hao-tan/">@HaoTan<a/> for your recognition and your great advise⭐! Thanks Team 🙌! Thanks Adobe! 😊❤️❤️
@@ -87,13 +87,13 @@ A wonderful ending to my PhD <a target="_blank" href="https://cecc.anu.edu.au/">
 
 **2020.09.26** &emsp; Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀 <a target="_blank" href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
 
-**2020.09.15** &emsp; Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
+**2020.09.15** &emsp; Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a> -->
 
 ------
 
 Research
 ======
-<a target="_blank" href="https://arxiv.org/abs/2307.15644">**Scaling Data Generation in Vision-and-Language Navigation**<a/><br>
+<!-- <a target="_blank" href="https://arxiv.org/abs/2307.15644">**Scaling Data Generation in Vision-and-Language Navigation**<a/><br>
 Zun Wang, Jialu Li, **Yicong Hong**, Yi Wang, Qi Wu, Mohit Bansal, Stephen Gould, Hao Tan, Yu Qiao<br>
 <em>International Conference on Computer Vision (ICCV), 2023<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2307.15644"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/wz0919/ScaleVLN"><button id="touch">Code</button></a>
@@ -137,4 +137,4 @@ Yanyuan Qiao, Yuankai Qi, **Yicong Hong**, Zheng Yu, Peng Wang, Qi Wu<br>
 Yuankai Qi, Zizheng Pan, **Yicong Hong**, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu<br>
 <em>International Conference on Computer Vision Systems (ICCV), 2021<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2104.04167"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YuankaiQi/ORIST"><button id="touch">Code</button></a>
-
+ -->

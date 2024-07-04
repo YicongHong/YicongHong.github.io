@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yicong Hong"
+title                    : "Tuan Van Vo"
 title_separator          : "-"
-name                     : &name "Yicong Hong"
+name                     : &name "Tuan Van Vo"
 description              : &description "A free researcher"
-url                      : https://yiconghong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tuanvanvo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/YicongHong"
+repository               : "https://github.com/vovantuan1999a"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yicong Hong"
-  avatar           : "mex.jpg"
-  bio              : "A researcher in Embodied AI, Large Vision-Language Models, and Video/3D Generation"
-  location         : "Canberra, Australia"
+  name             : "Tuan Van Vo"
+  avatar           : "icra.jpg"
+  bio              : "A researcher in Computer Vison (Medical Imaging), Large Vision-Language Models, Robotic Vision and Multimodal Vision for Robotics"
+  location         : "Singapore, Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=AerHOzUAAAAJ&hl=en"
-  email            : "mr.yiconghong@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Yicong_Hong2"
+  googlescholar    : "https://scholar.google.com/citations?user=TsjvwzgAAAAJ&hl=en&authuser=2"
+  email            : "vovantuan1999a@gmail.com"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YicongHong"
+  github           : "https://github.com/vovantuan1999a"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "yicong-hong"
+  linkedin         : "https://www.linkedin.com/in/vovantuan1999/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "YicongHong"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
