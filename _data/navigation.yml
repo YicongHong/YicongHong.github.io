@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "LRM"
+  - title: "Large-Reconstruction-Model"
     url: https://yiconghong.me/LRM/
 
-  - title: "HTH"
+  - title: "Hybrid-Hydra-Transformer"
     url: https://yiconghong.me/HTH/
 
   - title: "Recurrent-Transformers"
