@@ -40,9 +40,9 @@ Prior to that, I completed my Ph.D. (Dec2023) at the <a target="_blank" href="ht
 
 <!--I have a broad research interest in computer vision, natural language processing, and robotics. -->
 
-I love Embodied AI and AICG! -- "*What I cannot create I do not understand.*"
+Huge fan of Embodied AI and AICG! 🌟❤️ -- "*What I cannot create I do not understand.*"
 
-My latest works include **Video/3D Generation** and **Training LLMs/VLMs for Navigation**.
+My latest focuses include **Video/3D Generation** and **Training LLMs/VLMs for Navigation**.
 
 ------
 
