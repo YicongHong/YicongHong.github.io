@@ -32,7 +32,7 @@ a:hover { text-decoration: underline; }
 </style>
 
 ------
-I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My current research focuses on generative network architectures and modeling, including linear-complexity models and Test-Time Training, as well as combining diffusion and autoregressive approaches.
+I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My current focus is on generative network architectures and modeling, including linear-complexity models, Test-Time Training, and the integration of diffusion and autoregressive approaches.
 
 Prior to that, I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing, and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
