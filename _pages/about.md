@@ -34,7 +34,7 @@ a:hover { text-decoration: underline; }
 ------
 I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My latest work focuses on generative network architectures for efficient <a target="_blank" href="https://yiconghong.me/HTH/">(HTH)<a/>, long-context <a target="_blank" href="https://tianyuanzhang.com/projects/ttt-done-right/">(Test-Time Training)<a/>, and long-horizon <a target="_blank" href="https://desaixie.github.io/pa-vdm/">(Progressive Diffusion)<a/> video modeling and generation.
 
-Recently, my work has centered on building world models for interactive video generation, aiming for extended durations, long-term memory, spatial consistency, and real-time control. (Tes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
+Recently, my work has centered on building world models for interactive video generation, aiming for extended durations, long-term memory, spatial consistency, and real-time control. (Yes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
 
 Prior to that, I created the <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT">Recurrent-Transformer<a/> and the <a target="_blank" href="https://yiconghong.me/LRM/">Large Reconstruction Models<a/> — two projects I’m particularly proud of. 😊
 
