@@ -32,7 +32,9 @@ a:hover { text-decoration: underline; }
 </style>
 
 ------
-I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My current focus is on generative network architectures and modeling, including linear-complexity models, Test-Time Training, and the integration of diffusion and autoregressive approaches.
+I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My latest work focuses on generative network architectures for efficient <a target="_blank" href="https://yiconghong.me/HTH/">(HTH)<a/>, long-context <a target="_blank" href="https://tianyuanzhang.com/projects/ttt-done-right/">(Test-Time Training)<a/>, and long-horizon <a target="_blank" href="https://desaixie.github.io/pa-vdm/">(Progressive Diffusion)<a/> video modeling and generation.
+
+Recently, my work has centered on building world models for interactive video generation, aiming for extended durations, long-term memory, spatial consistency, and real-time control. (Tes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
 
 Prior to that, I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing, and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
@@ -43,7 +45,7 @@ News
 ======
 **2024.11.09** &emsp; Relocate to the Bay Area! Feel wonderful to be here on-site working with everyone!!! 🚀🚀🙌
 
-**2024.02.12** &emsp; Finally! My first day in **Adobe Research** as a full-time research scientist! So happy to be back and working with everyone! 😊🔥🔥
+**2024.02.12** &emsp; Finally! My first day in **Adobe Research** as a full-time research scientist! (remote from Australia) 😊🔥🔥
 
 **2024.01.20** &emsp; Thrilled to share that our **LRM: Large Reconstruction Model for Single Image to 3D** <a target="_blank" href="https://yiconghong.me/LRM/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.04400"><button id="touch">PDF</button></a> and **Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model** <a target="_blank" href="https://jiahao.ai/instant3d/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.06214"><button id="touch">PDF</button></a> have been accepted to ICLR2024 as Oral and Poster papers! 😆🎉🎉
 A wonderful ending to my PhD <a target="_blank" href="https://cecc.anu.edu.au/">@ANUCECC<a/> and a fantastic start to my new journey <a target="_blank" href="https://research.adobe.com/">@AdobeResearch<a/>! Thanks <a target="_blank" href="https://research.adobe.com/person/hao-tan/">@HaoTan<a/> for your recognition and your great advise⭐! Thanks Team 🙌! Thanks Adobe! 😊❤️❤️
