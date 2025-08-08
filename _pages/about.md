@@ -36,7 +36,9 @@ I am a research scientist at <a target="_blank" href="https://research.adobe.com
 
 Recently, my work has centered on building world models for interactive video generation, aiming for extended durations, long-term memory, spatial consistency, and real-time control. (Tes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
 
-Prior to that, I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing, and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
+Prior to that, I created the <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT">Recurrent-Transformer<a/> and the <a target="_blank" href="https://yiconghong.me/LRM/">Large Reconstruction Models<a/> — two projects I’m particularly proud of. 😊
+
+I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.edu.au/">College of Engineering, Computing, and Cybernetics (CECC)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I was also a previous research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV@ANU)<a/>. I was advised by <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Prof. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
 
 ------
