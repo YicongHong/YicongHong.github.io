@@ -53,7 +53,7 @@ News
 
 **2024.10.10** &emsp; Our work **Progressive Autoregressive Video Diffusion Models** <a target="_blank" href="https://desaixie.github.io/pa-vdm/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2410.08151"><button id="touch">PDF</button></a> for generating minute-long video is out (update: and accepted to CVPR2025 workshop)! 😆🔥🔥
 
-**2024.02.12** &emsp; My first day as a full-time research scientist at Adobe! 😆
+**2024.02.12** &emsp; My first day as a full-time research scientist at Adobe (remote from Australia)! 😆
 
 **2024.01.20** &emsp; Thrilled to share that our **LRM: Large Reconstruction Model for Single Image to 3D** <a target="_blank" href="https://yiconghong.me/LRM/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.04400"><button id="touch">PDF</button></a> and **Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model** <a target="_blank" href="https://jiahao.ai/instant3d/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.06214"><button id="touch">PDF</button></a> have been accepted to ICLR2024 as Oral and Poster papers! 😆🎉🎉
 A wonderful ending to my PhD <a target="_blank" href="https://cecc.anu.edu.au/">@ANUCECC<a/> and a fantastic start to my new journey <a target="_blank" href="https://research.adobe.com/">@AdobeResearch<a/>! Thanks <a target="_blank" href="https://research.adobe.com/person/hao-tan/">@HaoTan<a/> for your recognition and your great advise⭐! Thanks Team 🙌! Thanks Adobe! 😊❤️❤️
