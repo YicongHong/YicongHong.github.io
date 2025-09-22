@@ -34,7 +34,7 @@ a:hover { text-decoration: underline; }
 ------
 I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My latest work focuses on generative network architectures for efficient <a target="_blank" href="https://yiconghong.me/HTH/">(Hydra-Transformer-Hybrid)<a/>, long-context <a target="_blank" href="https://tianyuanzhang.com/projects/ttt-done-right/">(Test-Time Training)<a/>, and long-horizon <a target="_blank" href="https://desaixie.github.io/pa-vdm/">(Progressive Diffusion)<a/> video modeling and generation.
 
-Recently, my work has centered on building world models — interactive video generation, aiming for extended durations, long-term memory, spatial consistency, and real-time control. (Yes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
+Recently, my work has focused on building world models—interactive video generation, pursuing extended durations, long-term memory, spatial consistency, and real-time control. I believe this direction not only paves the way for creating immersive virtual worlds but also supports embodied intelligence in learning and reasoning about the real world. (Yes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
 
 Prior to that, I created the <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT">Recurrent-Transformer<a/> and the <a target="_blank" href="https://yiconghong.me/LRM/">Large Reconstruction Models<a/> — two projects I’m particularly proud of. 😊
 
@@ -45,7 +45,15 @@ I completed my Ph.D. (Dec2023) at the <a target="_blank" href="https://cecc.anu.
 
 News
 ======
-**2024.11.09** &emsp; Relocate to the Bay Area and officially a full-time research scientist! Feel wonderful to be here on-site working with everyone!!! 🚀🚀🙌
+**2025.05.29** &emsp; Our work **Test-time training done right** <a target="_blank" href="https://tianyuanzhang.com/projects/ttt-done-right/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2505.23884"><button id="touch">PDF</button></a> that attempts to address long-context modeling for language, 3D, and video generation is online! 😀🔥🔥
+
+**2025.02.03** &emsp; Our work **Pushing the Boundaries of State Space Models for Image and Video Generation** <a target="_blank" href="https://yiconghong.me/HTH/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2502.00972"><button id="touch">PDF</button></a> that builds Mamba-Transformer hybrid model for efficient generation is online! 😊
+
+**2024.11.09** &emsp; Relocate to the Bay Area! Feel wonderful to be here on-site working with everyone!!! 🚀🚀🙌
+
+**2024.10.10** &emsp; Our work **Progressive Autoregressive Video Diffusion Models** <a target="_blank" href="https://desaixie.github.io/pa-vdm/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2410.08151"><button id="touch">PDF</button></a> for generating minute-long video is out (update: and accepted to CVPR2025 workshop)! 😆🔥🔥
+
+**2024.02.12** &emsp; My first day as a full-time research scientist at Adobe! 😆
 
 **2024.01.20** &emsp; Thrilled to share that our **LRM: Large Reconstruction Model for Single Image to 3D** <a target="_blank" href="https://yiconghong.me/LRM/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.04400"><button id="touch">PDF</button></a> and **Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model** <a target="_blank" href="https://jiahao.ai/instant3d/"><button id="touch">Project Page</button></a> <a target="_blank" href="https://arxiv.org/abs/2311.06214"><button id="touch">PDF</button></a> have been accepted to ICLR2024 as Oral and Poster papers! 😆🎉🎉
 A wonderful ending to my PhD <a target="_blank" href="https://cecc.anu.edu.au/">@ANUCECC<a/> and a fantastic start to my new journey <a target="_blank" href="https://research.adobe.com/">@AdobeResearch<a/>! Thanks <a target="_blank" href="https://research.adobe.com/person/hao-tan/">@HaoTan<a/> for your recognition and your great advise⭐! Thanks Team 🙌! Thanks Adobe! 😊❤️❤️
