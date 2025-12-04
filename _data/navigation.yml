@@ -1,12 +1,15 @@
 # main links links
 main:
-  - title: "Large-Reconstruction-Model"
+  - title: "Relic World Model"
+    url: https://relic-worldmodel.github.io/
+
+  - title: "Large Reconstruction Model"
     url: https://yiconghong.me/LRM/
 
-  - title: "Hybrid-Hydra-Transformer"
+  - title: "Hybrid Hydra-Transformer"
     url: https://yiconghong.me/HTH/
 
-  - title: "Recurrent-Transformers"
+  - title: "Recurrent Transformers"
     url: https://github.com/YicongHong/Recurrent-VLN-BERT
 
   - title: "Resume"
