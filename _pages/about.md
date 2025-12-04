@@ -34,7 +34,7 @@ a:hover { text-decoration: underline; }
 ------
 I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. Recently, my work has focused on building interactive video world models, pursuing extended durations <a target="_blank" href="https://desaixie.github.io/pa-vdm/">(Progressive Diffusion)<a/>, long-horizon memory <a target="_blank" href="https://tianyuanzhang.com/projects/ttt-done-right/">(Test-Time Training)<a/>, high modeling efficiency<a target="_blank" href="https://yiconghong.me/HTH/"> (Hydra-Transformer-Hybrid)<a/>, and real-time control.
 
-See our latest work - <a target="_blank" href="https://relic-worldmodel.github.io/">Relic World Model<a/>!!! 🔥🔥🪐🌏
+**See our latest work - <a target="_blank" href="https://relic-worldmodel.github.io/">Relic World Model<a/>!!!** 🔥🔥🪐🌏
 
 I believe this direction not only paves the way for creating immersive virtual worlds but also supports embodied intelligence in learning and reasoning about the real world. (Yes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
 
