@@ -32,11 +32,11 @@ a:hover { text-decoration: underline; }
 </style>
 
 ------
-I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. My latest work focuses on generative network architectures for efficient <a target="_blank" href="https://yiconghong.me/HTH/">(Hydra-Transformer-Hybrid)<a/>, long-context <a target="_blank" href="https://tianyuanzhang.com/projects/ttt-done-right/">(Test-Time Training)<a/>, and long-horizon <a target="_blank" href="https://desaixie.github.io/pa-vdm/">(Progressive Diffusion)<a/> video modeling and generation.
+I am a research scientist at <a target="_blank" href="https://research.adobe.com/">Adobe Research<a/>. Recently, my work has focused on building interactive video world models, pursuing extended durations <a target="_blank" href="https://desaixie.github.io/pa-vdm/">(Progressive Diffusion)<a/>, long-horizon memory <a target="_blank" href="https://tianyuanzhang.com/projects/ttt-done-right/">(Test-Time Training)<a/>, high modeling efficiency<a target="_blank" href="https://yiconghong.me/HTH/">(Hydra-Transformer-Hybrid)<a/>, and real-time control. 
 
-Recently, my work has focused on building world models—interactive video generation, pursuing extended durations, long-term memory, spatial consistency, and real-time control. I believe this direction not only paves the way for creating immersive virtual worlds but also supports embodied intelligence in learning and reasoning about the real world. (Yes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
+See our latest work - <a target="_blank" href="https://relic-worldmodel.github.io/">Relic World Model<a/>!!! 🔥🔥🪐🌏
 
-**Hiring interns! Please feel free to email me if you are interested in working on World Models with us!**
+I believe this direction not only paves the way for creating immersive virtual worlds but also supports embodied intelligence in learning and reasoning about the real world. (Yes, Genie-3 is extraordinary — but we’re on a mission to push the boundaries even further!) 💪💪🌟
 
 Prior to that, I created the <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT">Recurrent-Transformer<a/> and the <a target="_blank" href="https://yiconghong.me/LRM/">Large Reconstruction Models<a/> — two projects I’m particularly proud of. 😊
 
